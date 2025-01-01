@@ -1,5 +1,5 @@
 # Feuerwehrreglement
-Vom 09.12.1996
+Vom 09.12.2024
 Die Einwohnergemeinde,
-gestützt auf § 30 des Gesetzes über den Feuerschutz vom 15. Dezember 1994,
+gestützt auf § 30 Gesetz über den Feuerschutz (Feuerschutzgesetz, FSG) vom 15. Dezember 1994 (BGS 722.21),
 beschliesst:
