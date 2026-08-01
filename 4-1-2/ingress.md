@@ -1,4 +1,5 @@
-# Reglement Kinderkrippe Wichtelhuus
-Vom 22.05.2019
+# Verordnung Kinderkrippe Wichtelhuus
+Vom 20.05.2026
 Der Gemeinderat,
 beschliesst:
+1 Gültigkeitsbereich
