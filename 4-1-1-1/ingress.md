@@ -1,4 +1,4 @@
 # Tarifordnung Tagesfamilien
-Vom 01.01.2023
+Vom 15.12.2025
 Der Gemeinderat,
 beschliesst:
