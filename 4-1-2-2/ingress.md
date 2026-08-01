@@ -1,4 +1,5 @@
-# Tarifblatt Kinderkrippe Wichtelhuus
-Vom 11.05.2017
+# Verordnung Betreuungsgutscheine Kindertagesstätten und Tagesfamilien
+Vom 10.07.2026
 Der Gemeinderat,
+gestützt auf Art. 8 Abs. 1 BeV
 beschliesst:
