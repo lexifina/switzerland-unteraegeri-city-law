@@ -1,4 +1,4 @@
 # Tarifordnung Kinderkrippe Wichtelhuus
-Vom 22.05.2019
+Vom 15.12.2025
 Der Gemeinderat,
 beschliesst:
