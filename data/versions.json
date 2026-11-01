@@ -1,0 +1,763 @@
+{
+ "country": "CH-ZG-UNTERAEGERI",
+ "acts": [
+  {
+   "slug": "1-1-1",
+   "short": "SRS 1.1-1",
+   "title": "Gemeindeordnung",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/1.1-1",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 20,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/1.1-1",
+     "sha256": "c78c751efb0a0bcc5ce0e36327b1419629a63bc456ad90c5e33a51a1a406cd41"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-1",
+   "short": "SRS 1.2-1",
+   "title": "Reglement Ortseingangstafeln",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/1.2-1",
+   "versions": [
+    {
+     "from": "2010-09-01",
+     "units": 6,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/1.2-1",
+     "sha256": "8990ed6d4d009c1ae93523dde2a99689d7c5d2c2552b97b79be21daf8bd0a98c"
+    }
+   ]
+  },
+  {
+   "slug": "1-2-2",
+   "short": "SRS 1.2-2",
+   "title": "Benutzungsordnung Gemeindearchiv für verwaltungsexterne Personen",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/1.2-2",
+   "versions": [
+    {
+     "from": "2017-01-01",
+     "units": 11,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/1.2-2",
+     "sha256": "5b704b1bf543d72bcf28a7947c18f47c60fe2df30ec838c5dcbbd210b7eaecae"
+    }
+   ]
+  },
+  {
+   "slug": "1-7-1-anstellungsreglement",
+   "short": "Anstellungsreglement",
+   "title": "Reglement über das Arbeitsverhältnis des Gemeindepersonals",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/1.7-1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 5,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/1.7-1",
+     "sha256": "cc28cf4b6d3b56b46d1abebdc0278b50f962fa903e9bb1e48596c68774d6d108"
+    }
+   ]
+  },
+  {
+   "slug": "2-1-1",
+   "short": "SRS 2.1-1",
+   "title": "Verordnung über die Gebühren im Beurkundungswesen",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/2.1-1",
+   "versions": [
+    {
+     "from": "2019-03-01",
+     "units": 7,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/2.1-1",
+     "sha256": "8512f9edb157900a07f12b0943ed686597e311cbb4ed86c65394f3dc5a1bc782"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1",
+   "short": "SRS 4.1-1",
+   "title": "Verordnung Tagesfamilien",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.1-1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 34,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-1/versions/90",
+     "sha256": "e3b80c249f5297bccc0b6ecc6f73af831168dfb92607702aa16d06aa95a958ea"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 47,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-1",
+     "sha256": "a7af1979cbe0e3fb0e92aaa43557125ae70d54be27c1c02a9def6b4c49d4c047"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-1-1",
+   "short": "SRS 4.1-1.1",
+   "title": "Tarifordnung Tagesfamilien",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.1-1.1",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 29,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-1.1/versions/91",
+     "sha256": "34748d63b68ed88a1181128411dd80838d47715df127fe2408d321de680d9be6"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 7,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-1.1",
+     "sha256": "d10316e338e5d1dac2a9f531d9ef6de7e741570d80a1673afd18a27ded750d4b"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-2",
+   "short": "SRS 4.1-2",
+   "title": "Verordnung Kinderkrippe Wichtelhuus",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.1-2",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 28,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-2/versions/114",
+     "sha256": "d8b06f8824677ac1a24d2bb4af9ab3e696dec5feb09ba2699b87d965303f55b7"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 32,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-2",
+     "sha256": "6cbbfb514ff567a0faa3274c5b748686bdfabf3e588be9e2eecf05b4369477e0"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-2-1",
+   "short": "SRS 4.1-2.1",
+   "title": "Tarifordnung Kinderkrippe Wichtelhuus",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.1-2.1",
+   "versions": [
+    {
+     "from": "2019-08-01",
+     "units": 19,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-2.1/versions/113",
+     "sha256": "23675b912ed01584d8ad19510dfe5c81923f0dfefe234ea8aa426682ac03d8f8"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 2,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-2.1",
+     "sha256": "f33a890dc01bd0f808042d5cb9b4b445bcc685fa13769b20a0f78d427a0e7ee7"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-2-2",
+   "short": "SRS 4.1-2.2",
+   "title": "Verordnung Betreuungsgutscheine Kindertagesstätten und Tagesfamilien",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.1-2.2",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 2,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-2.2/versions/94",
+     "sha256": "e8ccf233c2d9075a6ff20332fa8bc2870225a1da44ff6389cad29008028badba"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 4,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-2.2",
+     "sha256": "d56327954dcfcf54d0076b68f19de8d561f9ad098ad84aee61dab310dc01581b"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3-betreuungsreglement-ber",
+   "short": "Betreuungsreglement, BeR",
+   "title": "Reglement über die familien- und schulergänzende Kinderbetreuung",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.1-3",
+   "versions": [
+    {
+     "from": "2015-12-14",
+     "units": 20,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-3/versions/112",
+     "sha256": "8203171693cbad93f951c6327f6ec24f4157beb5937ac1b1eca033ea9cd72012"
+    },
+    {
+     "from": "2026-08-01",
+     "units": 21,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-3",
+     "sha256": "6adabca8a6a43e5f3bca2182f3f654c7cdeb997884cc46599996fdc2b2d653d7"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3-1-betreuungsverordnung-bev",
+   "short": "Betreuungsverordnung, BeV",
+   "title": "Verordnung zum Reglement über die familien- und schulergänzende Kinderbetreuung",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.1-3.1",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 25,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-3.1",
+     "sha256": "11abbcecae9643bec49ddba9d497f1194e179b2df5bf7068f8dbe573ac1accde"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3-2",
+   "short": "SRS 4.1-3.2",
+   "title": "Tarifordnung schulergänzende Betreuung",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.1-3.2",
+   "versions": [
+    {
+     "from": "2026-08-01",
+     "units": 3,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-3.2",
+     "sha256": "244f90e5015693cb264330b52ed2a3e9c817612e7c23fd6013d3edd23c470d0a"
+    }
+   ]
+  },
+  {
+   "slug": "4-1-3-3-seb-verordnung",
+   "short": "SEB-Verordnung",
+   "title": "Verordnung über die schulergänzende Betreuung von Kindern",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.1-3.3",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 30,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.1-3.3",
+     "sha256": "616156b9bd728b711ef0ac91f1fa0726b1fce4b6503d10f8b732b07ae4153ab1"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1",
+   "short": "SRS 4.2-1",
+   "title": "Schul- und Disziplinarordnung",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.2-1",
+   "versions": [
+    {
+     "from": "2017-04-01",
+     "units": 35,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.2-1",
+     "sha256": "d9e27fdacfd1f9f7eadbde18af9dd7d7cc90011c8600fab30edced23cb9a981d"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-1-1",
+   "short": "SRS 4.2-1.1",
+   "title": "Absenzenordnung und Urlaubsregelung für Schülerinnen und Schüler aller Stufen (inkl. Kindergarten)",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.2-1.1",
+   "versions": [
+    {
+     "from": "2011-11-01",
+     "units": 4,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.2-1.1",
+     "sha256": "eb4b7587b99e05d9a6e8b39b9f335440bf511c1f2dbafd5152dc38e911f230c2"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2",
+   "short": "SRS 4.2-2",
+   "title": "Reglement über den Schulzahnarztdienst",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.2-2",
+   "versions": [
+    {
+     "from": "2021-08-01",
+     "units": 11,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.2-2",
+     "sha256": "d13b110eea4a5a8414bca715277cfd06ea5b83531c142e8e14f14a139536cb8a"
+    }
+   ]
+  },
+  {
+   "slug": "4-2-2-1",
+   "short": "SRS 4.2-2.1",
+   "title": "Verordnung zum Reglement über den Schulzahnarzt-Dienst",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.2-2.1",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 4,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.2-2.1",
+     "sha256": "78c00b69e520b5ba60eca40c17b9a10610e1b07e857195d3cf0d09b486ac432e"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1",
+   "short": "SRS 4.3-1",
+   "title": "Reglement der Musikschule Unterägeri",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.3-1",
+   "versions": [
+    {
+     "from": "2013-02-01",
+     "units": 14,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.3-1",
+     "sha256": "5eb0b334acdc25369a21ef83a4c4935c834139bbb3bfee0155a5eaeca8d859a9"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-1",
+   "short": "SRS 4.3-1.1",
+   "title": "Vollziehungsverordnung zum Musikschulreglement für Musikschülerinnen und Musikschüler",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.3-1.1",
+   "versions": [
+    {
+     "from": "2013-08-01",
+     "units": 12,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.3-1.1",
+     "sha256": "559eed857da63ae90b5aa9f8a6f50bd759a835a59be6898acb3a7dba70a6e7c0"
+    }
+   ]
+  },
+  {
+   "slug": "4-3-1-2",
+   "short": "SRS 4.3-1.2",
+   "title": "Richtlinien für Schulgeldermässigungen der Musikschule",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.3-1.2",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 5,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.3-1.2",
+     "sha256": "8a5e2e28dc12f109c4565be464b8c14fc91e659748e2ffa0832699ab27864488"
+    }
+   ]
+  },
+  {
+   "slug": "4-5-1",
+   "short": "SRS 4.5-1",
+   "title": "Richtlinien Sportlerinnen- und Sportlerehrungen und Award-Verleihung",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.5-1",
+   "versions": [
+    {
+     "from": "2024-04-08",
+     "units": 14,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.5-1",
+     "sha256": "78142789ea95bddd4f027203f57cc80dcfadce3b3f4c80bd54a06e5383dc536a"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-1",
+   "short": "SRS 4.7-1",
+   "title": "Benutzerverordnung Bibliothek Ägerital",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.7-1",
+   "versions": [
+    {
+     "from": "2021-03-01",
+     "units": 14,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.7-1",
+     "sha256": "f4f173ae279d00d55e83419ee7a45d2dc05a7d0203c724699988909cdd9f9cfa"
+    }
+   ]
+  },
+  {
+   "slug": "4-7-2",
+   "short": "SRS 4.7-2",
+   "title": "Benutzerverordnug Ludothek Ägerital",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/4.7-2",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 7,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/4.7-2",
+     "sha256": "819a40a546a56476deb7ae318947e4ddf73353a24caed422b91d24531b3d39c1"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1",
+   "short": "SRS 5.5-1",
+   "title": "Feuerwehrreglement",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/5.5-1",
+   "versions": [
+    {
+     "from": "1997-01-01",
+     "units": 15,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/5.5-1/versions/47",
+     "sha256": "26e987535970f8c8e47301487dd3c5546682636622ed911164975a35cd7ecf3e"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 16,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/5.5-1",
+     "sha256": "54768b7ac922715f11fa033a7384bd696ff616e405e61464fa4005461d395ac4"
+    }
+   ]
+  },
+  {
+   "slug": "5-5-1-1",
+   "short": "SRS 5.5-1.1",
+   "title": "Richtlinie zum Feuerwehrreglement",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/5.5-1.1",
+   "versions": [
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/5.5-1.1",
+     "sha256": "7e0644deb98f340d2bc843bedf808bfbeb51c29b477f0f36211715d8c394ee7d"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-1",
+   "short": "SRS 6.6-1",
+   "title": "Benutzungs- und Gebührenreglement für Räume und Anlagen",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/6.6-1",
+   "versions": [
+    {
+     "from": "2022-11-01",
+     "units": 9,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/6.6-1",
+     "sha256": "b5a3c6d5ca63d117382ec78fe88c85cc228789b0f39eea54f34f8d550d2a87e7"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-2",
+   "short": "SRS 6.6-2",
+   "title": "Benützungsreglement des Kultur- und Begegnungshauses «Haus am See»",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/6.6-2",
+   "versions": [
+    {
+     "from": "2011-10-12",
+     "units": 14,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/6.6-2",
+     "sha256": "3ad719d2bfc3295c57fff33a0e03d41ea58f69ec2e10133393df2c3e445ba5fe"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-4",
+   "short": "SRS 6.6-4",
+   "title": "Benutzungsordnung für gemeindliche Sportanlagen",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/6.6-4",
+   "versions": [
+    {
+     "from": "2022-03-10",
+     "units": 18,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/6.6-4/versions/57",
+     "sha256": "8bbd1481f05ed30ebb630a475f2ecf06771838601609642309bed3a0a568ca1f"
+    },
+    {
+     "from": "2026-02-01",
+     "units": 17,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/6.6-4",
+     "sha256": "d66021723fbba99a32fd99ff5d5bd575ba5d71b0f1ab857ebfc6194d2934787e"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-5",
+   "short": "SRS 6.6-5",
+   "title": "Reglement Strandbad Lido Unterägeri",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/6.6-5",
+   "versions": [
+    {
+     "from": "2023-05-01",
+     "units": 14,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/6.6-5/versions/59",
+     "sha256": "78ded23653fa8d73926018f7c863243a18b5ad1067dbc3356d233b78f774f48e"
+    },
+    {
+     "from": "2026-05-01",
+     "units": 14,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/6.6-5",
+     "sha256": "9428a147855d1380ebeeed9c5f3633400c7876801098ee0323cd512cdfbd47c8"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-6",
+   "short": "SRS 6.6-6",
+   "title": "Allgemeine Nutzungsrichtlinien für die AEGERIHALLE",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/6.6-6",
+   "versions": [
+    {
+     "from": "2024-01-30",
+     "units": 23,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/6.6-6",
+     "sha256": "9a074c25ac1f410e587e09b47a094a79d3772550f77dd9593516ff8ee94cb756"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-7",
+   "short": "SRS 6.6-7",
+   "title": "Allgemeine Nutzungsrichtlinien für den KULTROOM15",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/6.6-7",
+   "versions": [
+    {
+     "from": "2023-01-01",
+     "units": 17,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/6.6-7",
+     "sha256": "01add4e78788f76f84c95cf0cc22282fe5e58129bb04f5e698b804bccaf64b27"
+    }
+   ]
+  },
+  {
+   "slug": "6-6-8",
+   "short": "SRS 6.6-8",
+   "title": "Reglement Fussballplatz Chruzelen mit Clubhaus",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/6.6-8",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 8,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/6.6-8",
+     "sha256": "be7b28cb4eb71827ee546657b0073a1c967618fa9625b7f5afabe6be1bc723e7"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-1",
+   "short": "SRS 7.1-1",
+   "title": "Bauordnung",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/7.1-1",
+   "versions": [
+    {
+     "from": "2009-01-01",
+     "units": 67,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.1-1/versions/56",
+     "sha256": "cde315e4b1ed93950cf33dc3bedd9954690a4a733f752b16a192c14e8b38115d"
+    },
+    {
+     "from": "2025-04-03",
+     "units": 50,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.1-1",
+     "sha256": "2b9f4d6f827113122442e643bce9b2607405dc843785dac0ff5c5925c8a8131a"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-2",
+   "short": "SRS 7.1-2",
+   "title": "Kosten für die Prüfung von Jauchegruben",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/7.1-2",
+   "versions": [
+    {
+     "from": "2020-03-18",
+     "units": 2,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.1-2",
+     "sha256": "2dfe659ab2cc020b3c5590f6bc5f1aadaccc870f7e842c8e910028ec2cc1b7ae"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-3",
+   "short": "SRS 7.1-3",
+   "title": "Baubewilligungsgebühren",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/7.1-3",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 2,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.1-3",
+     "sha256": "92fd42743f806ad19aaaa4abf11b75626a7a4d0d3c52c23f6a5fb9f0bc845ea6"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-4-pgw",
+   "short": "PgW",
+   "title": "Verordnung preisgünstiger Wohnungsbau",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/7.1-4",
+   "versions": [
+    {
+     "from": "2025-06-12",
+     "units": 11,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.1-4/versions/132",
+     "sha256": "37424f1ea9d46d2ed884eee1a78aa4aaa3aa66a637efd5aa2adf6779af71cdb5"
+    },
+    {
+     "from": "2025-12-17",
+     "units": 12,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.1-4",
+     "sha256": "b8a3db4110641c114f559c85123902fa4074d8a74bd86c879472943ce5b81732"
+    }
+   ]
+  },
+  {
+   "slug": "7-1-5",
+   "short": "SRS 7.1-5",
+   "title": "Richtlinie über die Förderung der Entsiegelung von Flächen",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/7.1-5",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 4,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.1-5",
+     "sha256": "8b3a5c05b320b3567b8c028a9ca10dfb8dec32bff93d214764a7d152f8c9edb0"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2",
+   "short": "SRS 7.4.3-2",
+   "title": "Abwasserreglement",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/7.4.3-2",
+   "versions": [
+    {
+     "from": "2005-01-01",
+     "units": 28,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.4.3-2",
+     "sha256": "82d3f993794024ef6e3af890e32b8b0132e7f72bec2cc4b2b76175bd0c29f28d"
+    }
+   ]
+  },
+  {
+   "slug": "7-4-3-2-1",
+   "short": "SRS 7.4.3-2.1",
+   "title": "Verordnung zum Abwasserreglement",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/7.4.3-2.1",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 3,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.4.3-2.1",
+     "sha256": "fba7d33d3e56a6276f1de03d35c510f0bd5c879c7fd8c766075ccf5a98303734"
+    }
+   ]
+  },
+  {
+   "slug": "7-6-1",
+   "short": "SRS 7.6-1",
+   "title": "Strassenreglement",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/7.6-1",
+   "versions": [
+    {
+     "from": "2004-02-20",
+     "units": 30,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.6-1",
+     "sha256": "f12a57ab2eced713fb5dae4e87b44c83dd142d21819b5cadc93e175e6066da87"
+    }
+   ]
+  },
+  {
+   "slug": "7-7-1",
+   "short": "SRS 7.7-1",
+   "title": "Parkplatzbewirtschaftungsreglement",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/7.7-1",
+   "versions": [
+    {
+     "from": "2020-07-01",
+     "units": 11,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.7-1",
+     "sha256": "3c654ae3c983becbf3797d0cddd134234dd0eb2229a7470aa020b5f5c22ad342"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 11,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/7.7-1/versions/152",
+     "sha256": "8837fd15177f0c0cea4e4d544f3eb23da24387dfdd5057e171c8c40a99d53880"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1",
+   "short": "SRS 8.2-1",
+   "title": "Bestattungs- und Friedhofreglement",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/8.2-1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 30,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/8.2-1",
+     "sha256": "87321d4c7d7dcb1a93b58a4a1c1320f7e5ad60c75a3cbcf78959834b1fda84e6"
+    }
+   ]
+  },
+  {
+   "slug": "8-2-1-1",
+   "short": "SRS 8.2-1.1",
+   "title": "Gebührenordnung zum Bestattungs- und Friedhofreglement",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/8.2-1.1",
+   "versions": [
+    {
+     "from": "2012-01-01",
+     "units": 5,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/8.2-1.1",
+     "sha256": "9900cc861d9b8227c7dbb62c0cc048ac6444b46b66e23cdef437d2315919412a"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1",
+   "short": "SRS 8.3-1",
+   "title": "Reglement über das Halten von Hunden und die Erhebung der Hundesteuer",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/8.3-1",
+   "versions": [
+    {
+     "from": "2024-01-01",
+     "units": 10,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/8.3-1",
+     "sha256": "19b4c4419533e03d779dbdca7c6f2256982341ddefe533dd455fec99d823b189"
+    }
+   ]
+  },
+  {
+   "slug": "8-3-1-1-hundereglement",
+   "short": "Hundereglement",
+   "title": "Verordnung zum Reglement über das Halten von Hunden und die Erhebung der Hundesteuer",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/8.3-1.1",
+   "versions": [
+    {
+     "from": "2024-02-01",
+     "units": 8,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/8.3-1.1",
+     "sha256": "362a8e338478b5d462c38ae16bf341bb0d3b07e2a722e09caea408cde7bbc81e"
+    }
+   ]
+  },
+  {
+   "slug": "9-3-1",
+   "short": "SRS 9.3-1",
+   "title": "Verordnung über die Angelfischerei im Ägerisee",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/9.3-1",
+   "versions": [
+    {
+     "from": "2023-02-01",
+     "units": 7,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/9.3-1",
+     "sha256": "c8db4db6d747a883aa54456846645b1444543d33c7e8441cbb59c2befd7bc925"
+    }
+   ]
+  },
+  {
+   "slug": "9-4-1",
+   "short": "SRS 9.4-1",
+   "title": "Verordnung über die Beherbergungsabgabe",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/9.4-1",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 10,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/9.4-1",
+     "sha256": "f37b4952f2219d1cdf2557537373b1f88a3b4587671d4cbab3875074e7a84030"
+    }
+   ]
+  },
+  {
+   "slug": "9-5-1-alkoholsteuer",
+   "short": "Alkoholsteuer",
+   "title": "Gebührenordnung für den Kleinhandel mit gebrannten Wassern",
+   "url": "https://unteraegeri.tlex.ch/app/de/texts_of_law/9.5-1",
+   "versions": [
+    {
+     "from": "2019-01-17",
+     "units": 9,
+     "source_url": "https://unteraegeri.tlex.ch/api/de/texts_of_law/9.5-1",
+     "sha256": "e56588bf89fb9b4a75aa27a13137f21d75dbc97e4780f1eeb62ed503c7edf117"
+    }
+   ]
+  }
+ ]
+}

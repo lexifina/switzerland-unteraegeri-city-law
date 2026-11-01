@@ -1,0 +1,11 @@
+{
+  "path": "ch-zg-unteraegeri",
+  "code": "CH-ZG-UNTERAEGERI",
+  "name": "Unterägeri (city)",
+  "level": "municipality",
+  "parent": "ch-zg",
+  "repo": "https://github.com/lexifina/switzerland-unteraegeri-city-law",
+  "build": "built: Gemeindeordnung and municipal enactments (49 acts, 61 versions) from the SRS",
+  "language": "de",
+  "sources": 1
+}
