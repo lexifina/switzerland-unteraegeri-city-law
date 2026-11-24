@@ -1,6 +1,6 @@
 # How this repository was made (Unterägeri (city))
 
-This file is written by the build on 2026-11-01, the day the source data was retrieved.
+This file is written by the build on 2026-11-24, the day the source data was retrieved.
 
 ## Sources
 
@@ -63,20 +63,24 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `9-3-1` | Verordnung über die Angelfischerei im Ägerisee | 1 | 2023-02-01 to 2023-02-01 |
 | `9-4-1` | Verordnung über die Beherbergungsabgabe | 1 | 2018-01-01 to 2018-01-01 |
 | `9-5-1-alkoholsteuer` | Gebührenordnung für den Kleinhandel mit gebrannten Wassern | 1 | 2019-01-17 to 2019-01-17 |
+| `4-1-3-4` | Verordnung Betreuungsgutscheine Spielgruppen | 1 | 2026-08-01 to 2026-08-01 |
+| `7-1-6` | Reglement zur Förderung erneuerbarer Energieträger | 1 | 2023-12-06 to 2023-12-06 |
 
-The build made 61 commits:
+The build made 63 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 49 | first version of an act |
-| 12 | one law on its in-force day |
+| 4 | baseline texts where the record starts |
+| 59 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
-- 1 commits on the branch `zukunft`: laws not yet in force on 2026-11-01.
+- 1 commits on the branch `zukunft`: laws not yet in force on 2026-11-24.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 60 laws in the record.
-- 114 tags.
+- 62 laws in the record.
+- 118 tags.
 
 ## Dates
 
@@ -88,13 +92,13 @@ When a law gives no date of its own, the default rule applies: Each version is d
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `b9337c56aa4890d0119e0e10045d47c5bfbd1640e4280b48bd39643df0f571f4` (586925 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.14.4; git version 2.53.0.
+- Corpus: sha256 `a207fb3ca4d7fc0cf75af9ccbe5aadbf63c1a79fee56f05079c518756ff03b24` (595661 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `3ed15ed797641367480d7d9c7e1a7c0b0f34d538`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `467264bb286660494d9b93836dbef5109b4fa759`.
+- Python 3.14.0; git version 2.52.0.windows.1.
 
 ## Checks
 
-61 versions of 49 acts read back from git on the day each took effect and on the day before: 0 mismatches. Trailers: 0 commits whose trailers git cannot parse. Health: 0 merge commits on main, 0 commit dates that go backwards, 0 commits dated after the build.
+Not yet run for this build.
 
 No second build of this corpus has been compared yet.
 
@@ -108,7 +112,7 @@ No second build of this corpus has been compared yet.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 

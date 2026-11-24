@@ -58,6 +58,13 @@
     "9-5-1-alkoholsteuer"
    ],
    "sha256": "5df2d15f51cc3ea0d2041178f78202c7e05fc4e8c82d92b6080bfc0d323d4e5f"
+  },
+  "95-watch-20261124-000-new.json": {
+   "acts": [
+    "4-1-3-4",
+    "7-1-6"
+   ],
+   "sha256": "3b59eac92d53aa467a9ab9c8f6a7783112530ca0f943530c72819cd63db085f4"
   }
  },
  "schema": 1
