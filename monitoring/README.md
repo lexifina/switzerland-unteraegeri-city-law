@@ -6,18 +6,19 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Unteraegeri: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-24 12:49 UTC, Unteraegeri: Systematische Sammlung (unteraegeri.tlex.ch): 21 Adressen gelesen; 2 hinzugefügt, 0 geändert, 0 entfernt; Änderungen gefunden; 0 nicht veröffentlicht, davon 0 ohne Grund.
+**Letzte Prüfung:** 2026-11-25 08:22 UTC, Unteraegeri: Systematische Sammlung (unteraegeri.tlex.ch): 23 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 0 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Unteraegeri: Systematische Sammlung (unteraegeri.tlex.ch)](https://unteraegeri.tlex.ch/) | `<act>/` | täglich | 2026-11-24 12:49 UTC | Änderungen gefunden | beobachtet |
+| [Unteraegeri: Systematische Sammlung (unteraegeri.tlex.ch)](https://unteraegeri.tlex.ch/) | `<act>/` | täglich | 2026-11-25 08:22 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-25 08:21](checks/2026-11.md#ch-lexwork-unteraegeri-city-20261125t082157z) | lexwork-unteraegeri-city | 23 | 0 | 0 | 0 | 0 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-24 12:48](checks/2026-11.md#ch-lexwork-unteraegeri-city-20261124t124859z) | lexwork-unteraegeri-city | 21 | 2 | 0 | 0 | 0 (0) | Änderungen gefunden | [3](https://github.com/lexifina/switzerland-unteraegeri-city-law/compare/6ac42ef01ebb...2d81df46a1e7) |
 
 ## Selbst prüfen
