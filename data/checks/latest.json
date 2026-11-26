@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-25T08:29:20Z",
+ "generated": "2026-11-26T07:20:51Z",
  "latest": {
   "lexwork-unteraegeri-city|switzerland/zug/unteraegeri/acts": {
    "attempt": 1,
@@ -13,7 +13,7 @@
     "unreadable": 0
    },
    "census": {
-    "checked": 8,
+    "checked": 9,
     "current": 51,
     "gone": 0,
     "held": 51,
@@ -23,26 +23,26 @@
     "repo": 51,
     "source_in_scope": 51
    },
-   "check_id": "ch-lexwork-unteraegeri-city-20261125T082157Z",
+   "check_id": "ch-lexwork-unteraegeri-city-20261126T071324Z",
    "commits": null,
    "corpus": "switzerland/zug/unteraegeri/acts",
    "error": null,
-   "finished": "2026-11-25T08:22:24Z",
+   "finished": "2026-11-26T07:13:46Z",
    "flags": [
     {
-     "detail": "1 of 12 texts differ from the source",
+     "detail": "1 of 10 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
    "gap": 0,
-   "note": "unteraegeri.tlex.ch: index of 51 acts (51 in force); held 51; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 8 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
+   "note": "unteraegeri.tlex.ch: index of 51 acts (51 in force); held 51; 0 in force and in scope not held yet, 0 out of scope (land-use plans, concessions, directives, forms: as the builder), 0 published only as PDF; 9 held acts compared with the collection this check (every one within 7 days); 0 candidate acts read",
    "outcome": "no-change",
    "published": {
     "added": [],
     "changed": [],
     "removed": []
    },
-   "requests": 23,
+   "requests": 17,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,13 +52,13 @@
    },
    "snapshot": "51 entries, 51 in force (unteraegeri.tlex.ch)",
    "source": "lexwork-unteraegeri-city",
-   "started": "2026-11-25T08:21:57Z",
+   "started": "2026-11-26T07:13:24Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
     "letters_check_dropped": {},
     "new": 0,
-    "nothing_new": 0,
+    "nothing_new": 1,
     "parts": [],
     "pdf_only": 0,
     "re_read": 0,
@@ -70,12 +70,12 @@
      "4.1-2.1 (4-1-2-1): 2019-08-01"
     ],
     "held": 51,
-    "method": "each act compared this check (8 of 51: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from unteraegeri.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
+    "method": "each act compared this check (9 of 51: a seventh of the held acts, every one within 7 days, and the acts this check wrote) read again from unteraegeri.tlex.ch (the act document and each version by id); every version held here against the collection's XHTML of the same day, letters and digits (the builder's letters check, ch_cantons.letters_check, so how a parse splits the text into files does not count); and the corpus's newest version rendered by the builder (gitlaw_common) against the files at the tip of main. A difference is corrected by the next check's update when today's parse gives back the act's other held versions exactly; otherwise it is listed for a rebuild decision",
     "not_compared": {},
     "not_compared_why": null,
     "ok": false,
-    "swept": 8,
-    "versions_checked": 12,
+    "swept": 9,
+    "versions_checked": 10,
     "versions_differ": 1
    }
   }
