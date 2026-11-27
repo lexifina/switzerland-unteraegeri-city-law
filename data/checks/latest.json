@@ -1,5 +1,5 @@
 {
- "generated": "2026-11-26T07:20:51Z",
+ "generated": "2026-11-27T07:14:33Z",
  "latest": {
   "lexwork-unteraegeri-city|switzerland/zug/unteraegeri/acts": {
    "attempt": 1,
@@ -23,14 +23,14 @@
     "repo": 51,
     "source_in_scope": 51
    },
-   "check_id": "ch-lexwork-unteraegeri-city-20261126T071324Z",
+   "check_id": "ch-lexwork-unteraegeri-city-20261127T070750Z",
    "commits": null,
    "corpus": "switzerland/zug/unteraegeri/acts",
    "error": null,
-   "finished": "2026-11-26T07:13:46Z",
+   "finished": "2026-11-27T07:08:15Z",
    "flags": [
     {
-     "detail": "1 of 10 texts differ from the source",
+     "detail": "1 of 13 texts differ from the source",
      "flag": "verify-differ"
     }
    ],
@@ -42,7 +42,7 @@
     "changed": [],
     "removed": []
    },
-   "requests": 17,
+   "requests": 21,
    "runner": "lawwatch switzerland (08a05acd17)",
    "schema": "lexifina-check/1",
    "seen": {
@@ -52,7 +52,7 @@
    },
    "snapshot": "51 entries, 51 in force (unteraegeri.tlex.ch)",
    "source": "lexwork-unteraegeri-city",
-   "started": "2026-11-26T07:13:24Z",
+   "started": "2026-11-27T07:07:50Z",
    "unexplained": 0,
    "update": {
     "left_for_next_check": 0,
@@ -75,7 +75,7 @@
     "not_compared_why": null,
     "ok": false,
     "swept": 9,
-    "versions_checked": 10,
+    "versions_checked": 13,
     "versions_differ": 1
    }
   }
