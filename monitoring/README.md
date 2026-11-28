@@ -6,18 +6,21 @@
 
 Wie global-law jedes Land beobachtet: [global-law monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring). Diese Seite zeigt dasselbe nur für Unteraegeri: jedes Lesen einer amtlichen Quelle, wann, und was daraus folgte (Vorschriften hinzugefügt, geändert und entfernt). Maschinenlesbar in [data/checks/](../data/checks/) (JSON Lines, Schema `lexifina-check/1`), in `git log` als Commits mit `Kind: check` und Monat für Monat in [checks/](checks/).
 
-**Letzte Prüfung:** 2026-11-27 07:08 UTC, Unteraegeri: Systematische Sammlung (unteraegeri.tlex.ch): 21 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 0 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`.
+**Letzte Prüfung:** 2026-11-28 08:30 UTC, Unteraegeri: Systematische Sammlung (unteraegeri.tlex.ch): 19 Adressen gelesen; 0 hinzugefügt, 0 geändert, 0 entfernt; keine Änderung; 0 nicht veröffentlicht, davon 0 ohne Grund. Hinweise: `verify-differ`.
 
 ## Quellen
 
 | Quelle | Ordner | Wie oft | Letzte erfolgreiche Prüfung | Letztes Ergebnis | Stand |
 | --- | --- | --- | --- | --- | --- |
-| [Unteraegeri: Systematische Sammlung (unteraegeri.tlex.ch)](https://unteraegeri.tlex.ch/) | `<act>/` | täglich | 2026-11-27 07:08 UTC | keine Änderung | beobachtet |
+| [Unteraegeri: Systematische Sammlung (unteraegeri.tlex.ch)](https://unteraegeri.tlex.ch/) | `<act>/` | täglich | 2026-11-28 08:30 UTC | keine Änderung | beobachtet |
 
 ## Die letzten 30 Tage
 
 | Beginn (UTC) | Quelle | Gelesen | Hinzugefügt | Geändert | Entfernt | Nicht veröffentlicht (ohne Grund) | Ergebnis | Commits |
 | --- | --- | ---: | ---: | ---: | ---: | ---: | --- | ---: |
+| [2026-11-28 08:30](checks/2026-11.md#ch-lexwork-unteraegeri-city-20261128t083018z) | lexwork-unteraegeri-city | 19 | 0 | 0 | 0 | 0 (0) | keine Änderung `verify-differ` | — |
+| [2026-11-28 07:11](checks/2026-11.md#ch-lexwork-unteraegeri-city-20261128t071143z) | lexwork-unteraegeri-city | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
+| [2026-11-28 06:42](checks/2026-11.md#ch-lexwork-unteraegeri-city-20261128t064225z) | lexwork-unteraegeri-city | 0 | 0 | 0 | 0 | 0 (0) | die Prüfung ist fehlgeschlagen | — |
 | [2026-11-27 07:07](checks/2026-11.md#ch-lexwork-unteraegeri-city-20261127t070750z) | lexwork-unteraegeri-city | 21 | 0 | 0 | 0 | 0 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-26 07:13](checks/2026-11.md#ch-lexwork-unteraegeri-city-20261126t071324z) | lexwork-unteraegeri-city | 17 | 0 | 0 | 0 | 0 (0) | keine Änderung `verify-differ` | — |
 | [2026-11-25 08:21](checks/2026-11.md#ch-lexwork-unteraegeri-city-20261125t082157z) | lexwork-unteraegeri-city | 23 | 0 | 0 | 0 | 0 (0) | keine Änderung `verify-differ` | — |
